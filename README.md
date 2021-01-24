@@ -10,6 +10,10 @@ App calculates the manafacturing price of [Doors and Windows](https://goldwin1.i
 
 - Casement
 
+### Info
+
+It's just for be more familiar with Python structure
+
 # Copyright
 
 This project id forked from [this repo](https://github.com/JoyeBright/UPVC-Price-Calculator.git)
